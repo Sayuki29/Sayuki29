@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 8/29 書籍で "Linux基礎" を勉強しました<br>
 8/30 書籍を見ながら "Webサイト" を作りました<br>
-8/31 書籍を見ながら "Webサイト" を作りました
+8/31 書籍を見ながら "Webサイト" を作りました<br>
+9/1  書籍を見ながら "Webサイト" を作りました<br>
