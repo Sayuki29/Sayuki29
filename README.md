@@ -27,3 +27,4 @@ You can click the Preview link to take a look at your changes.
 9/5  書籍を見ながら "Webサイト" を作りました<br>
 9/6  書籍を見ながら "Webサイト" を作りました<br>
 9/8  "HTML"の書籍を読みました。<br>
+9/11 自分のロゴを作りました。
